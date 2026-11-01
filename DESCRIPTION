@@ -16,7 +16,7 @@ Description: Analyzes data from a Conconi et al. (1996) <doi:10.1055/s-2007-9728
     Connect TCX exports but may require additional data preparation for heart
     rate, time, and speed data from other sources.
 License: GPL (>= 3)
-Depends: dplyr, ggplot2
+Depends: R (>= 4.1.0), dplyr, ggplot2
 Imports: trackeR, SiZer, methods
 Encoding: UTF-8
 RoxygenNote: 7.2.3
