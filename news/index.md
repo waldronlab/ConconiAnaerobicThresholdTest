@@ -2,6 +2,8 @@
 
 ## ConconiAnaerobicThresholdTest 1.1.0
 
+CRAN release: 2026-11-01
+
 - Declare `R (>= 4.1.0)` in `Depends`, since the package uses the native
   pipe `|>` (fixes CRAN check NOTE).
 - Add an example Shiny app in `inst/scripts/app.R`, also available
